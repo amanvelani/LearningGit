@@ -8,3 +8,6 @@ Trying to enter a line in middle.
 Trying to break linear history.
 
 Adding a line from new branch
+
+Changing some things for timepass.
+
